@@ -1,4 +1,4 @@
-# Editeed by - Ankita
+# Edited by - Ankita
 
 # Node.js
 
